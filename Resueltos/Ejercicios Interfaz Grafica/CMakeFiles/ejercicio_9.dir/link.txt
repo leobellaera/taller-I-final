@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ejercicio_9.dir/ejercicio_9.cpp.o  -o ejercicio_9 /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.4 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.4 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.4 

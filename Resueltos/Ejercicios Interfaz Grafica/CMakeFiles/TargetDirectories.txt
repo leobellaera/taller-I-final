@@ -1,0 +1,13 @@
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/rebuild_cache.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_3.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_7.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_5.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_2.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_8.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_4.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_6.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/edit_cache.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_10.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_1.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_9.dir
+/home/leobellaera/Documentos/FIUBA/Taller/Resueltos/Ejercicios Interfaz Grafica/CMakeFiles/ejercicio_11.dir
